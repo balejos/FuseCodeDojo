@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Kata",
+            "request": "launch",
+            "mainClass": "redhat.fusecodedojo.kata1.Kata"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "redhat.fusecodedojo.kata1.App"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Kata",
+            "request": "launch",
+            "mainClass": "Kata"
+        }
+    ]
+}
